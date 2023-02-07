@@ -9,14 +9,12 @@
   width: 330px;
 }
 .news-card {
-    height: 300px;
-    overflow-y: scroll;
+  height: 300px;
+  overflow-y: scroll;
   margin-top: 50px;
-
 }
-.news-card p{
+.news-card p {
   font-size: 12px;
-  
 }
 .card img {
   width: 100%;
