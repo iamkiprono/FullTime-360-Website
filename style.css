@@ -6,13 +6,17 @@
   box-sizing: border-box;
 }
 .card {
-  width: 280px;
+  width: 330px;
 }
 .news-card {
     height: 300px;
     overflow-y: scroll;
   margin-top: 50px;
 
+}
+.news-card p{
+  font-size: 12px;
+  
 }
 .card img {
   width: 100%;
