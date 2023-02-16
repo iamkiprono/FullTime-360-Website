@@ -1,10 +1,8 @@
-fetch("news.json")
+fetch("data/news.json")
   .then((res) => res.json())
   .then((data) => {
-    
     const render = data
       .map((people) => {
-        console.log(people);
         return `<div class="news-card">
         
         <img src= ${people.image}>
@@ -13,7 +11,6 @@ fetch("news.json")
           </div>`;
       })
       .join("");
-    console.log(render);
 
     document.querySelector(".card").innerHTML = render;
   });
