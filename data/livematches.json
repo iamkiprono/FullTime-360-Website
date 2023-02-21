@@ -1,64 +1,17 @@
 [
     {
-        "logoHome": "https://logos-world.net/wp-content/uploads/2020/06/Ajax-Logo-1991-Present.jpg",
-        "logoAway": "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg",
-        "home": "Ajax",
-        "away": "Union Berlin",
-        "link": "https://afr.score808tv.com/football/2310339-afc-ajax-vs-union-berlin.html"
+        "logoHome": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
+        "logoAway": "https://logos-world.net/wp-content/uploads/2020/06/Real-Madrid-Logo.png",
+        "home": "Liverpool",
+        "away": "Real Madrid",
+        "link": "https://afr.score808tv.com/football/2310331-liverpool-vs-real-madrid.html"
     },
     {
-        "logoHome": "https://logos-world.net/wp-content/uploads/2020/04/Barcelona-logo-2002-present.jpg",
-        "logoAway": "https://logos-world.net/wp-content/uploads/2020/06/Manchester-United-logo.png",
-        "home": "Barcelona",
-        "away": "Machester Utd",
-        "link": "https://afr.score808tv.com/football/2310341-fc-barcelona-vs-manchester-united.html"
-    },
-    {
-        "logoHome": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/1200px-FC_Red_Bull_Salzburg_logo.svg.png",
-        "logoAway": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-        "home": "Salzburg",
-        "away": "AS Roma",
-        "link": "https://afr.score808tv.com/football/2310340-red-bull-salzburg-vs-as-roma.htmll"
-    }
-    ,
-    {
-        "logoHome": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/1200px-FC_Shakhtar_Donetsk.svg.png",
-        "logoAway": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/1200px-Stade_Rennais_FC.svg.png",
-        "home": "Shakhtar Donetsk",
-        "away": "Rennes",
-        "link": "https://afr.score808tv.com/football/2310343-fc-shakhtar-donetsk-vs-rennes.html"
-    }
-    ,
-    {
-        "logoHome": "https://logos-world.net/wp-content/uploads/2020/11/Bayer-04-Leverkusen-Logo-2006-present.jpg",
-        "logoAway": "https://i.pinimg.com/originals/48/a4/92/48a49272ebde5747f9cad801c1fe8f74.png",
-        "home": "Bayer Leverkusen",
-        "away": "Monaco",
-        "link": "https://afr.score808tv.com/football/2310338-bayer-leverkusen-vs-monaco.html"
-    }
-    ,
-    {
-        "logoHome": "https://logos-world.net/wp-content/uploads/2020/06/Juventus-emblem.png",
-        "logoAway": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/1200px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
-        "home": "Juventus",
-        "away": "Nantes",
-        "link": "https://afr.score808tv.com/football/2310336-juventus-vs-nantes.html"
-    }
-    ,
-    {
-        "logoHome": "https://logos-world.net/wp-content/uploads/2020/06/Sevilla-Logo.png",
-        "logoAway": "https://logos-world.net/wp-content/uploads/2020/11/PSV-Logo.png",
-        "home": "Sevilla",
-        "away": "PSV",
-        "link": "https://afr.score808tv.com/football/2310337-sevilla-vs-psv-eindhoven.html"
-    }
-    ,
-    {
-        "logoHome": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
-        "logoAway": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
-        "home": "Sporting CP",
-        "away": "Midtjylland",
-        "link": "https://afr.score808tv.com/football/2310342-sporting-cp-vs-midtjylland.html"
+        "logoHome": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png",
+        "logoAway": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SSC_Neapel.svg/1200px-SSC_Neapel.svg.png",
+        "home": "Eintracht Frankfurt",
+        "away": "Napoli",
+        "link": "https://afr.score808tv.com/football/2310335-eintracht-frankfurt-vs-napoli.html"
     }
     
 ]
