@@ -4,7 +4,7 @@ const links = document.querySelector("a");
 
 const match = document.querySelector(".matches");
 
-fetch("/data/livematches.json")
+fetch("/livematches.json")
   .then((response) => response.json())
   .then((data) => {
     const matches = data.map((match) => {

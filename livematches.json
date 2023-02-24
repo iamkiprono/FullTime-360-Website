@@ -1,0 +1,58 @@
+[
+  {
+    "logoHome": "https://logos-world.net/wp-content/uploads/2020/11/PSV-Logo.png",
+    "logoAway": "https://logos-world.net/wp-content/uploads/2020/06/Sevilla-Logo.png",
+    "home": "PSV",
+    "away": "Sevilla",
+    "link": "https://afr.score808tv.com/football/2310399-psv-eindhoven-vs-sevilla.html"
+  },
+  {
+    "logoHome": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/1200px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "logoAway": "https://logos-world.net/wp-content/uploads/2020/06/Juventus-emblem.png",
+    "home": "Nantes",
+    "away": "Juventus",
+    "link": "https://afr.score808tv.com/football/2310396-nantes-vs-juventus.html"
+  },
+  {
+    "logoHome": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
+    "logoAway": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
+    "home": "Midtjylland",
+    "away": "Sporting",
+    "link": "https://afr.score808tv.com/football/2310397-midtjylland-vs-sporting-cp.html"
+  },
+  {
+    "logoHome": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/1200px-LogoASMonacoFC2021.svg.png",
+    "logoAway": "https://logos-world.net/wp-content/uploads/2020/11/Bayer-04-Leverkusen-Logo-2006-present.jpg",
+    "home": "Monaco",
+    "away": "Leverkusen",
+    "link": "https://afr.score808tv.com/football/2310398-monaco-vs-bayer-leverkusen.html"
+  },
+  {
+    "logoHome": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/1200px-1._FC_Union_Berlin_Logo.svg.png",
+    "logoAway": "https://logos-world.net/wp-content/uploads/2020/06/Ajax-Symbol.png",
+    "home": "Union Berlin",
+    "away": "Ajax",
+    "link": "https://afr.score808tv.com/football/2310402-union-berlin-vs-afc-ajax.html"
+  },
+  {
+    "logoHome": "https://logos-world.net/wp-content/uploads/2020/06/Roma-symbol.png",
+    "logoAway": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/FC_Red_Bull_Salzburg_logo.svg/1200px-FC_Red_Bull_Salzburg_logo.svg.png",
+    "home": "AS Roma",
+    "away": "RB Salzburg",
+    "link": "https://afr.score808tv.com/football/2310403-as-roma-vs-red-bull-salzburg.html"
+  },
+  {
+    "logoHome": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/1200px-Stade_Rennais_FC.svg.png",
+    "logoAway": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/FC_Shakhtar_Donetsk.svg/1200px-FC_Shakhtar_Donetsk.svg.png",
+    "home": "Rennes",
+    "away": "Shakhtar Donetsk",
+    "link": "https://afr.score808tv.com/football/2310401-rennes-vs-fc-shakhtar-donetsk.html"
+  },
+  {
+    "logoHome": "https://logos-world.net/wp-content/uploads/2020/06/Manchester-United-logo.png",
+    "logoAway": "https://logos-world.net/wp-content/uploads/2020/04/Barcelona-Logo.png",
+    "home": "Man United",
+    "away": "Barcelona",
+    "link": "https://afr.score808tv.com/football/2310400-manchester-united-vs-fc-barcelona.html"
+  }
+]
