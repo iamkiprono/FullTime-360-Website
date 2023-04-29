@@ -68,14 +68,14 @@ nav a {
   margin: auto;
 }
 .news-card {
-  height: 300px;
+  min-height: 300px;
   width: 300px;
   margin-top: 100px;
 }
 .news-card p {
-  height: 50px;
-  /* overflow-y: hidden; */
-  font-size: 12px;
+  height: 100px;
+  overflow-y: scroll;
+  font-size: 16px;
   width: 100%;
 }
 .card img {
@@ -84,7 +84,7 @@ nav a {
   height: 200px;
 }
 
-.show{
+.show {
   height: fit-content;
   overflow-y: auto;
   color: red;
@@ -96,11 +96,11 @@ nav a {
   }
   .news-card {
     height: 300px;
-    
-    margin-top: 50px;
+
+    margin: 50px 0;
   }
   .news-card p {
-    font-size: 12px;
+    font-size: 16px;
   }
   .card img {
     width: 100%;
