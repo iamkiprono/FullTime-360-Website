@@ -11,32 +11,51 @@ nav {
   width: 95%;
   justify-content: space-between;
 }
-nav a{
+nav a {
   font-size: 30px;
   padding: 0 10px;
 }
-.insta{
-  color: #f09433; 
-color: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
-color: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-color: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
-  }
-.whatsapp{
-  color: #34B7F1;
+.insta {
+  color: #f09433;
+  color: -moz-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  color: -webkit-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  color: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+.whatsapp {
+  color: #34b7f1;
 }
 .watch-live {
   text-align: center;
   padding: 20px;
 }
-.watch-live a{
-  
+.watch-live a {
   padding: 20px 30px;
   background: rgb(206, 28, 28);
   color: #fff;
   text-decoration: none;
   border-radius: 10px;
-
 }
 .card {
   /* align-items: center; */
@@ -54,15 +73,21 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
   margin-top: 100px;
 }
 .news-card p {
-  height: 100px;
+  height: 50px;
+  /* overflow-y: hidden; */
   font-size: 12px;
   width: 100%;
-  overflow-y: scroll;
 }
 .card img {
   width: 300px;
   object-fit: cover;
   height: 200px;
+}
+
+.show{
+  height: fit-content;
+  overflow-y: auto;
+  color: red;
 }
 
 @media (max-width: 600px) {
@@ -71,7 +96,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', end
   }
   .news-card {
     height: 300px;
-    overflow-y: scroll;
+    
     margin-top: 50px;
   }
   .news-card p {
