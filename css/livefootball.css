@@ -14,10 +14,16 @@ body {
 }
 
 .game {
+  width: 100%;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 .team {
-  margin: 0 10px;
+  /* font-size: 12px; */
+ 
+  /* margin: 0 10px; */
+  
   display: flex;
   align-items: center;
   width: fit-content;
@@ -39,11 +45,12 @@ body {
   color: green;
 }
 .team img {
-  width: 50px;
+  width: 30px;
   object-fit: contain;
 }
 .live-game {
   display: flex;
+  align-items: center;
   padding: 20px;
   margin-top: 20px;
   border: solid 1px black;
