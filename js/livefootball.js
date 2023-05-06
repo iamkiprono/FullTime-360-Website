@@ -2,30 +2,26 @@ const home = document.querySelector(".home");
 const away = document.querySelector(".away");
 const links = document.querySelector("a");
 
-const match = document.querySelector(".matches");
+const match = document.querySelector(".live");
 
 fetch("https://blog-api-kiprono.onrender.com/live")
   .then((response) => response.json())
   .then((data) => {
-    if (data.response == undefined) {
-      console.dir(data.response)
-      const matches = data.map((match) => {
-        return `<div class="live-game">
-          <div class="game">
-            <p class="team home"><img src=${match.homelogo} alt="">${match.hometeam}</p>
-            <p class="vs">Vs</p>
-            <p class="team away"> <img src=${match.awaylogo} alt="">${match.awayteam}</p>
-          </div>
-          <p class="game-link">Link: <a class="match-link" href=${match.matchlink} target="_blank">Watch here</a></p>
-        </div>`;
-      })
-      match.innerHTML = matches.join(" ");
+    if (!data.length) {
+      return (match.textContent = "No maches today");
     }
-    else {
-      match.innerHTML = "Loading....";
-
-    }
-
+    const matches = data.map((match) => {
+      return `<div class="game">
+        <div class="hometeam">
+          <img src=${match.homelogo} alt="">
+          <div class="name">${match.hometeam}</div>
+        </div>
+        <div class="awayteam">
+          <img src=${match.awaylogo} alt="">
+          <div class="name">${match.awayteam}</div>
+        </div>
+        <a href=${match.link}>Watch</a>
+      </div>`;
+    });
+    match.innerHTML = matches.join(" ");
   });
-
-
