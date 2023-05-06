@@ -20,7 +20,7 @@ fetch("https://blog-api-kiprono.onrender.com/live")
           <img src=${match.awaylogo} alt="">
           <div class="name">${match.awayteam}</div>
         </div>
-        <a href=${match.link}>Watch</a>
+        <a target="_blank" href=${match.matchlink}>Watch</a>
       </div>`;
     });
     match.innerHTML = matches.join(" ");
