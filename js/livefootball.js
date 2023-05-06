@@ -12,15 +12,17 @@ fetch("https://blog-api-kiprono.onrender.com/live")
     }
     const matches = data.map((match) => {
       return `<div class="game">
+       
+        <a target="_blank" href=${match.matchlink}>
         <div class="hometeam">
-          <img src=${match.homelogo} alt="">
-          <div class="name">${match.hometeam}</div>
-        </div>
-        <div class="awayteam">
-          <img src=${match.awaylogo} alt="">
-          <div class="name">${match.awayteam}</div>
-        </div>
-        <a target="_blank" href=${match.matchlink}>Watch</a>
+        <img src=${match.homelogo} alt="">
+        <div class="name">${match.hometeam}</div>
+      </div>
+      <div class="awayteam">
+        <img src=${match.awaylogo} alt="">
+        <div class="name">${match.awayteam}</div>
+      </div>
+        </a>
       </div>`;
     });
     match.innerHTML = matches.join(" ");
