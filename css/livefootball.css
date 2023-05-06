@@ -29,6 +29,7 @@ body {
 .awayteam {
   display: flex;
   align-items: center;
+  margin: 5px 0;
 }
 .game img {
   width: 20px;
